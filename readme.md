@@ -1,3 +1,4 @@
+# A00478485_MCDA5510_Week_1_Hello_World - Bhavy Doshi
 I'm Bhavy Doshi from India and I recently joined the MCDA program in the Fall 2023 cohort after working for 5 years in TCS and Barclays Bank perming the role of auditor and developer. My banner ID is A00878485 and you can reach me by email at Bhavy.Doshi@smu.ca
 
 I have been grouped with Subhi (A00473252) and Papa (A00477519) due to their similar background in banking, cooking and being dog lovers. We all have worked in either front desk jobs serving customers through IT resolution or worked in the data warehouse for grading the risk associated with the customer. We also liked cooking because it's a science which brings joy to the food consumer and the right amount of spices can make the taste of a dish so delicious.
